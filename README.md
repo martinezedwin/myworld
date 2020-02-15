@@ -15,4 +15,7 @@ This project has been tested using Ubuntu 16.04 LTS
 
 
 ### How to run
-
+1. `cd PATH/TO/myworld`
+2. `cmake . && make`
+3. `cd myworld`
+4. `gazebo myworld.world`
