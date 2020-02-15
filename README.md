@@ -2,7 +2,7 @@
 
 `myworld` is a project that utilizes [gazebo](http://gazebosim.org/) (7.x) with [ROS](https://www.ros.org/) (Kinetic) to create a 3D world.
 
-[![Final result](./images/final.png)]
+![Final result](./images/final.png)
 
 
 ## How to run
