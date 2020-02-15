@@ -1,0 +1,3 @@
+/home/edwin/Documents/Projects/myworld/build/CMakeFiles/edit_cache.dir
+/home/edwin/Documents/Projects/myworld/build/CMakeFiles/rebuild_cache.dir
+/home/edwin/Documents/Projects/myworld/build/CMakeFiles/hello.dir
