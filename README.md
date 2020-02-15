@@ -1,6 +1,8 @@
 # My World
 
-`myworld` is a project that utilizes [gazebo](http://gazebosim.org/) (7.x) with [ROS](https://www.ros.org/) (Kinetic) to create a 3D world. 
+`myworld` is a project that utilizes [gazebo](http://gazebosim.org/) (7.x) with [ROS](https://www.ros.org/) (Kinetic) to create a 3D world.
+
+[![Final result](./images/final.png)]
 
 
 ## How to run
@@ -14,9 +16,9 @@ This project has been tested using Ubuntu 16.04 LTS
 4. Run `gazebo` to ensure it's working properly.
 
 
-### How to run
+### How to run (After cloning repository)
 1. `cd PATH/TO/myworld`
 2. `cmake . && make`
-3. `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/PATH/TO/myworld/build`
-4. `cd myworld`
+3. `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/PATH/TO/myworld/`
+4. `cd world`
 5. `gazebo myworld.world`
